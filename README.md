@@ -1,4 +1,4 @@
-[![MasterHead](https://hdqwalls.com/wallpapers/landscape-scenery-minimal-4k-ac.jpg)
+![MasterHead](https://hdqwalls.com/wallpapers/landscape-scenery-minimal-4k-ac.jpg)
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
