@@ -67,6 +67,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Limitles-369&theme=onedark" alt="limitles-369" /></a> </p>
 
+### ✍️ Random Dev Quote
+<p align="center"> <a href="https://quotes-github-readme.vercel.app"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></a> </p>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored line">
 </p>
