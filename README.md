@@ -8,7 +8,7 @@
 
 ### A Passionate Full-stack Developer
 
-<p align="left"> <a href="https://github.com/Limitles-369"><img src="https://img.shields.io/github/followers/Limitles-369?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" /></a> </p>
+<p align="left"> <img src="https://visitcount.itsvg.in/api?id=Limitles-369&label=Profile%20Views&color=0&icon=0&pretty=false" alt="Profile Views" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Limitles-369" alt="Limitles-369" /></a> </p>
 
