@@ -68,9 +68,7 @@
 
 # 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=limitles-369&show_icons=true&locale=en&layout=compact" alt="limitles-369" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limitles-369&show_icons=true&locale=en&layout=compact" alt="limitles-369" /></p>
 
 <p align="left"> <a herf="https://nirzak-streak-stats.vercel.app"><img src="https://nirzak-streak-stats.vercel.app/?user=Limitles-369&theme=dark&hide_border=false" alt="limitles-369" /></a> </p>
 
@@ -78,3 +76,4 @@
 ## 🏆 GitHub Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Limitles-369&theme=onedark" alt="limitles-369" /></a> </p>
+ 
