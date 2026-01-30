@@ -1,4 +1,5 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+
 <p align="center">
   <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Akash;I'm+a+Full+Stack+Developer;I'm+learning+Machine+Learning;Welcome+to+my+GitHub+Profile;Let's+get+started..." alt="Example Usage - README Typing SVG">
@@ -11,32 +12,22 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limitles-369&label=Profile%20views&color=0e75b6&style=flat" alt="limitles-369" /> </p>
 
 - 🔭 I'm currently working on **Currently building a Sasta-WhatsApp a real-time chat web application using modern full-stack technologies and scalable system design.**
-
 - 🌱 I'm currently learning **Machine Learning and System Design**
-
 - 👯 I'm looking to collaborate on **Open-source projects and cool ideas that make developers’ lives easier**
-
 - 🤝 I'm looking for help with **Learning System Design**
-
 - 💬 Ask me about **React, Node.js and web development**
-
 - 📫 How to reach me **akashsamui369@gmail.com**
+
 <p align="left"> <a href="https://twitter.com/akash_samu84108" target="blank"><img src="https://img.shields.io/twitter/follow/akash_samu84108?logo=twitter&style=for-the-badge" alt="akash_samu84108" /></a> </p>
 
 - ⚡ Fun facts
-- **I debug more than I code—and I enjoy it.**
-
-- **I turn coffee into code ☕💻**
-
-- **My code works… until I deploy it.**
-
-- **I think I’m funny (still under review).**
-
-- 👨‍💻 All of my projects are available at **[https://www.akashsamui.in](https://www.akashsamui.in)**
-
-- 📝 I regularly write articles on **[https://www.blog.akashsamui.in](https://www.blog.akashsamui.in)**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1OiuKQN9yhuP53NFNyy2hbrhb6mJ6se2T/view?usp=sharing](https://drive.google.com/file/d/1OiuKQN9yhuP53NFNyy2hbrhb6mJ6se2T/view?usp=sharing)**
+  **I debug more than I code—and I enjoy it.**
+  **I turn coffee into code ☕💻**
+  **My code works… until I deploy it.**
+  **I think I’m funny (still under review).**
+- 👨‍💻 All of my projects are available at **[www.akashsamui.in](https://www.akashsamui.in)**
+- 📝 I regularly write articles on **[www.blog.akashsamui.in](https://www.blog.akashsamui.in)**
+- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1OiuKQN9yhuP53NFNyy2hbrhb6mJ6se2T/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -68,12 +59,18 @@
 
 # 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limitles-369&show_icons=true&locale=en&layout=compact" alt="limitles-369" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limitles-369&show_icons=true&locale=en&layout=pie" alt="limitles-369" /></p>
 
 <p align="left"> <a herf="https://nirzak-streak-stats.vercel.app"><img src="https://nirzak-streak-stats.vercel.app/?user=Limitles-369&theme=dark&hide_border=false" alt="limitles-369" /></a> </p>
-
 
 ## 🏆 GitHub Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Limitles-369&theme=onedark" alt="limitles-369" /></a> </p>
- 
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" alt="colored line">
+</p>
+
+<p align="center">
+  Made with ❤️ in India
+</p>
