@@ -68,7 +68,9 @@
 
 # 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Limitles-369&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Limitles-369" /></p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=limitles-369&show_icons=true&locale=en&layout=compact" alt="limitles-369" />
+</p>
 
 <p align="left"> <a herf="https://nirzak-streak-stats.vercel.app"><img src="https://nirzak-streak-stats.vercel.app/?user=Limitles-369&theme=dark&hide_border=false" alt="limitles-369" /></a> </p>
 
