@@ -68,7 +68,7 @@
 
 # 📊 GitHub Stats:
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limitles-369&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="limitles-369" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Limitles-369&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Limitles-369" /></p>
 
 ## 🏆 GitHub Trophies
 
