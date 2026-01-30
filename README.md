@@ -8,7 +8,7 @@
 
 ### A Passionate Full-stack Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Limitles-369&label=Profile views&color=0e75b6&style=flat" alt="Limitles-369" /> </p>
+<p align="left"> <a href="https://github.com/Limitles-369"><img src="https://img.shields.io/github/followers/Limitles-369?label=Followers&style=flat&color=0e75b6" alt="GitHub Followers" /></a> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Limitles-369" alt="Limitles-369" /></a> </p>
 
