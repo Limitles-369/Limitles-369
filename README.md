@@ -70,13 +70,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=limitles-369&show_icons=true&locale=en&layout=compact" alt="limitles-369" /></p>
 
-## 🏆 GitHub Trophies
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Limitles-369&theme=onedark" alt="limitles-369" /></a> </p>
-
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=limitles-369&show_icons=true&locale=en" alt="limitles-369" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=limitles-369&" alt="limitles-369" /></p>
-
