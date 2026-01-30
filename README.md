@@ -1,12 +1,12 @@
-![MasterHead](https://hdqwalls.com/wallpapers/landscape-scenery-minimal-4k-ac.jpg)
-
-<h1 align="center">Hi 👋, I'm Akash</h1>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)]
+<p align="center">
+  <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Akash;I'm+a+Full+Stack+Developer;I'm+learning+Machine+Learning;Welcome+to+my+GitHub+Profile;Let's+get+started..." alt="Example Usage - README Typing SVG">
+  </h1>
+</p>
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
-
 # Hi 👋, I'm Akash Samui
-
 ### A Passionate Full-stack Developer
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=limitles-369&label=Profile%20views&color=0e75b6&style=flat" alt="limitles-369" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Limitles-369&theme=onedark" alt="limitles-369" /></a> </p>
@@ -25,7 +25,8 @@
 
 - 📫 How to reach me **akashsamui369@gmail.com**
 
-- ⚡ Fun fact **I debug more than I code—and I enjoy it.
+- ⚡ Fun facts 
+**I debug more than I code—and I enjoy it.
 I turn coffee into code ☕💻
 My code works… until I deploy it.
 I think I’m funny (still under review).**
