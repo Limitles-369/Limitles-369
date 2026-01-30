@@ -63,6 +63,8 @@
 
 <p align="left"> <a herf="https://nirzak-streak-stats.vercel.app"><img src="https://nirzak-streak-stats.vercel.app/?user=Limitles-369&theme=dark&hide_border=false" alt="limitles-369" /></a> </p>
 
+<p><img align="Center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Limitles-369&theme=algolia" alt="Limitles-369" /></p>
+
 ## 🏆 GitHub Trophies
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Limitles-369&theme=onedark" alt="limitles-369" /></a> </p>
