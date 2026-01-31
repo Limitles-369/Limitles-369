@@ -2,7 +2,7 @@
 
 <p align="center">
   <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Akash;I'm+a+Full+Stack+Developer;I'm+learning+Machine+Learning;Welcome+to+my+GitHub+Profile;Let's+get+started..." alt="Example Usage - README Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto+Slab&weight=500&center=true&size=31&pause=60&duration=3000&color=36C2CE&random=false&width=600&height=58&lines=Hello+pals!;I'm+Akash!!;I'm+a+Full+Stack+Developer;I'm+learning+Machine+Learning;Welcome+to+my+GitHub+Profile;Let's+get+started..." alt="Example Usage - README Typing SVG">
   </h1>
 </p>
 <h3 align="center">A passionate Full Stack Developer from India 🇮🇳</h3>
