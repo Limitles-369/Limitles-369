@@ -59,15 +59,15 @@
 
 # 📊 GitHub Stats
 
-<table>
+<table align="center">
   <tr>
-    <td>
+    <td align="center">
       <img
         src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Limitles-369&theme=algolia"
         alt="Profile Summary"
       />
     </td>
-    <td>
+    <td align="center">
       <img
         src="https://github-readme-stats-seven-eosin-14.vercel.app/api?username=Limitles-369&show_icons=true&theme=radical"
         alt="GitHub Stats"
@@ -75,13 +75,15 @@
     </td>
   </tr>
   <tr>
-    <td>
-      <img
-        src="https://streak-stats.demolab.com?user=Limitles-369&theme=dark"
-        alt="GitHub Streak"
-      />
+    <td align="center">
+      <a href="https://git.io/streak-stats">
+        <img
+          src="https://streak-stats.demolab.com?user=Limitles-369&theme=dark&border_radius=4.1"
+          alt="GitHub Streak"
+        />
+      </a>
     </td>
-    <td>
+    <td align="center">
       <img
         src="https://github-readme-stats-seven-eosin-14.vercel.app/api/top-langs?username=Limitles-369&theme=radical&layout=compact"
         alt="Top Languages"
@@ -89,6 +91,7 @@
     </td>
   </tr>
 </table>
+
 
 
 ## 🏆 GitHub Trophies
