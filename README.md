@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/23nith/23nith/main/animated-gif-ezgif.com-crop.gif)
+![MasterHead](https://raw.githubusercontent.com/23nith/23nith/main/animated-gif-ezgif.com-crop.gif)(https://www.akashsamui.in)
 
 <p align="center">
   <h1 align="center">
