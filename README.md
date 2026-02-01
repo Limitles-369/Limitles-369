@@ -77,7 +77,7 @@
   <tr>
     <td align="center">
         <img
-          src="https://github-readme-streak-stats-1-six.vercel.app?user=Limitles-369&theme=dark&hide_border=true"
+          src="https://github-readme-streak-stats-1-six.vercel.app?user=Limitles-369&theme=dark&hide_border=false"
           alt="GitHub Streak"
         />
       </a>
