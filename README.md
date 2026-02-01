@@ -77,7 +77,7 @@
   <tr>
     <td>
       <img
-        src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Limitles-369&theme=dark&hide_total_contributions=true"
+        src="https://streak-stats.demolab.com?user=limitles-369&theme=dark" alt="GitHub Streak"
         alt="GitHub Streak"
       />
     </td>
