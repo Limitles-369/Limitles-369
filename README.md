@@ -18,7 +18,7 @@
 - 💬 Ask me about **React, Node.js and web development**
 - 📫 How to reach me **akashsamui369@gmail.com**
 
-<p align="left"> <a href="https://twitter.com/akash_samu84108" target="blank"><img src="https://img.shields.io/twitter/follow/akash_samu84108?logo=twitter&style=for-the-badge" alt="akash_samu84108" /></a> </p>
+<p align="left"> <a href="https://twitter.com/akash_samu84108" target="blank"><img src="https://img.shields.io/badge/Follow-me?style=social&logo=x&logoColor=%23000000&color=%23000000&link=https%3A%2F%2Ftwitter.com%2Fakash_samu84108" alt="akash_samu84108" /></a> </p>
 
 - ⚡ Fun facts
   **I debug more than I code—and I enjoy it.**
