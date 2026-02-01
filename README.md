@@ -63,7 +63,7 @@
 
 <p align="left"> <a herf="https://nirzak-streak-stats.vercel.app"><img src="https://nirzak-streak-stats.vercel.app/?user=Limitles-369&theme=dark&hide_border=false" alt="limitles-369" /></a> </p>
 
-<p align="left"> <a herf="https://nirzak-streak-stats.vercel.app"><img src="https://github-readme-stats-seven-eosin-14.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical" alt="limitles-369" /></a> </p>
+<p align="left"> <a herf="https://nirzak-streak-stats.vercel.app"><img src="https://github-readme-stats-seven-eosin-14.vercel.app/api?username=limitles-369&show_icons=true&theme=radical" alt="limitles-369" /></a> </p>
 
 
 ## 🏆 GitHub Trophies
