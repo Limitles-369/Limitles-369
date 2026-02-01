@@ -76,7 +76,6 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="https://git.io/streak-stats">
         <img
           src="https://streak-stats.demolab.com/?user=Limitles-369&theme=dark&hide_border=true&border_radius=4.1"
           alt="GitHub Streak"
