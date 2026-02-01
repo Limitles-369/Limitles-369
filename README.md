@@ -77,7 +77,7 @@
   <tr>
     <td>
       <img
-        src="https://nirzak-streak-stats.vercel.app/?user=Limitles-369&theme=dark"
+        src="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Limitles-369&theme=dark&hide_total_contributions=true"
         alt="GitHub Streak"
       />
     </td>
