@@ -21,10 +21,10 @@
 <p align="left"> <a href="https://twitter.com/akash_samu84108" target="blank"><img src="https://img.shields.io/badge/Follow-me?style=social&logo=x&logoColor=%23000000&color=%23000000&link=https%3A%2F%2Ftwitter.com%2Fakash_samu84108" alt="akash_samu84108" /></a> </p>
 
 - ⚡ Fun facts
-  **I debug more than I code—and I enjoy it.**
-  **I turn coffee into code ☕💻**
-  **My code works… until I deploy it.**
-  **I think I’m funny (still under review).**
+  - **I debug more than I code—and I enjoy it.**
+  - **I turn coffee into code ☕💻**
+  - **My code works… until I deploy it.**
+  - **I think I’m funny (still under review).**
 - 👨‍💻 All of my projects are available at **[www.akashsamui.in](https://www.akashsamui.in)**
 - 📝 I regularly write articles on **[www.blog.akashsamui.in](https://www.blog.akashsamui.in)**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1OiuKQN9yhuP53NFNyy2hbrhb6mJ6se2T/view?usp=sharing)**
