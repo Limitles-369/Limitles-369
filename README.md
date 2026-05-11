@@ -26,7 +26,7 @@
   - **My code works… until I deploy it.**
   - **I think I’m funny (still under review).**
 - 👨‍💻 All of my projects are available at **[www.akashsamui.in](https://www.akashsamui.in)**
-- 📝 I regularly write articles on **[www.blog.akashsamui.in](https://blog.akashsamui.in)**
+- 📝 I regularly write articles on **[blog.akashsamui.in](https://blog.akashsamui.in)**
 - 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1OiuKQN9yhuP53NFNyy2hbrhb6mJ6se2T/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
